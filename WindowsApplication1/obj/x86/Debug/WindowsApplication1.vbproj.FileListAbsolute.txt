@@ -1,0 +1,50 @@
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\PROGRAMING\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\PROGRAMING\VB.NET Assignment\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\PROGRAMING\VB.NET Assignment\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\PROGRAMING\VB.NET Assignment\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\VB.NET Assignment - Copy\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\VB.NET Assignment - Copy\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\VB.NET Assignment - Copy\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\VB.NET Assignment - Copy\lasitha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+K:\lasitha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+K:\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+K:\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+K:\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+K:\lasitha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+K:\lasitha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+K:\lasitha\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+K:\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+K:\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+K:\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form2.resources
+K:\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form3.resources
+K:\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form4.resources
+K:\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form5.resources
+K:\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+K:\lasitha\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
